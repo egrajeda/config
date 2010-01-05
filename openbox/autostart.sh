@@ -1,1 +1,1 @@
-feh --bg-tile ~/img/wall/Pattern07.png
+feh --bg-tile ~/img/wall/2.gif
