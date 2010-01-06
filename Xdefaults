@@ -1,0 +1,8 @@
+URxvt.buffered:         true
+URxvt.background:       #242424
+URxvt.foreground:       #f6f3e8
+URxvt.cursorColor:      #656565
+URxvt.underlineColor:   yellow
+URxvt.font:             xft:Terminus:pixelsize=8:antialias=false
+URxvt.boldFont:         xft:Terminus:pixelsize=8:antialias=false
+URxvt.scrollBar:        false
