@@ -218,17 +218,17 @@
         <wrap>no</wrap>
       </action>
     </keybind>
-    <keybind key="W-F1">
+    <keybind key="M-A">
       <action name="Desktop">
         <desktop>1</desktop>
       </action>
     </keybind>
-    <keybind key="W-F2">
+    <keybind key="M-S">
       <action name="Desktop">
         <desktop>2</desktop>
       </action>
     </keybind>
-    <keybind key="W-F3">
+    <keybind key="M-D">
       <action name="Desktop">
         <desktop>3</desktop>
       </action>
