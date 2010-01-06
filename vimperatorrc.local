@@ -1,0 +1,4 @@
+set guioptions=r
+set showtabline=0
+
+colorscheme shiki

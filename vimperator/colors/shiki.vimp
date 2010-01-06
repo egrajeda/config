@@ -1,0 +1,2 @@
+hi StatusLine   font-weight: normal; font-size: 11px; color: #111; background: #eee;
+hi CmdLine      font-family: terminus; font-size: 11px; background: #fff;
